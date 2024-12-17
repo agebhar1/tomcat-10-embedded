@@ -32,7 +32,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- dependencies -->
-        <junit5.version>5.11.3</junit5.version>
+        <junit5.version>5.11.4</junit5.version>
         <tomcat.version>10.1.34</tomcat.version>
         <!-- plugins -->
         <maven.compiler.source>11</maven.compiler.source>
